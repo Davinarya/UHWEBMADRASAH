@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(47, 177, 177);
+}
+p{
+    font-family: arial;
+    font-size: 15px;
+    margin: 20px;
+}
+h2 {
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: xx-large; 
+}
